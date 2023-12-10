@@ -50,3 +50,7 @@ To run the unit tests, use the following command:
 
 ./gradlew test
 
+For quick reference, you can refer following files
+AustralianCities.apk
+AustralianCities.mp4
+
