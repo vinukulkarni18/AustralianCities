@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AustralianCities</string>
+    <string name="my_cities_in_australia">My Cities in Australia</string>
+    <string name="something_went_wrong">Something went wrong. Please try again later.</string>
+</resources>
